@@ -106,7 +106,7 @@ $ yarn dev
 
 ```
 
-And now, you can run this on Insomnia :smiley:
+And now, you can run it on Insomnia :smiley:
 
 [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Fastfeet&uri=https%3A%2F%2Fgithub.com%2Fgdlopes%2Ffastfeet%2Fblob%2Fmaster%2Fbackend%2Ffastfeet-api.json)
 
